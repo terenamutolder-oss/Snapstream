@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SnapStream">
+  <defs>
+    <linearGradient id="g" x1="6" y1="8" x2="58" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="20" width="13" height="4.5" rx="2.25" fill="#60a5fa"/>
+  <rect x="2" y="29" width="16" height="4.5" rx="2.25" fill="#a78bfa"/>
+  <rect x="5" y="38" width="12" height="4.5" rx="2.25" fill="#f472b6"/>
+  <circle cx="7" cy="14" r="2" fill="#38bdf8"/>
+  <path fill="url(#g)" d="M22 14.5c1-1.8 3.6-1.8 4.6 0l19.2 33.2c1 1.8-.25 4-2.3 4H19.1c-2.05 0-3.3-2.2-2.3-4L22 14.5z"/>
+  <path fill="#ffffff" d="M27.4 25.2 41.2 33.4a1.4 1.4 0 0 1 0 2.4L27.4 44a1.4 1.4 0 0 1-2.1-1.2V26.4a1.4 1.4 0 0 1 2.1-1.2z"/>
+</svg>
