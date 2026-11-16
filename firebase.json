@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "marsels-project-stream",
     "public": "hosting",
     "ignore": [
       "firebase.json",
